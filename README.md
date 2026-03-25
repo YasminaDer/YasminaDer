@@ -35,10 +35,8 @@ Here are my stats including languages usage:
 ![Yasmina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasminaDer&show_icons=true&theme=radical&hide_rank=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminaDer&layout=compact&theme=radical)
 
-> 💡 **Tip:** `Top Languages` muestra automáticamente **todos los lenguajes que más usas** en tus repositorios, no solo Python.
-
 ---
 
 ## 📫 How to Reach Me
 - **Email:** dermouhyasmina@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yasmina-dermouh/)
