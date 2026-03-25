@@ -4,31 +4,39 @@ Welcome to my GitHub profile! Here you'll find a variety of personal and academi
 ---
 
 ## 🛠️ Skills
-Below are the programming languages, frameworks, libraries, and tools I work with:
 
-**Programming Languages:**  
-C, C++, Python, Java, JavaScript
-
-**Frameworks, Libraries & Tools:**  
-SQL, Docker, Matplotlib, NumPy, Pandas, RStudio, VisualStudio, Intell
-
-**Badges:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming Languages & Libraries
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-image](https://img.shields.io/badge/-scikit--image-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-31648C?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Tools & IDEs
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-0090CE?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-My GitHub stats and language usage:
+Here are my stats including languages usage:
 
-![Yasmina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasminaDer&show_icons=true&theme=radical)
-
+![Yasmina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasminaDer&show_icons=true&theme=radical&hide_rank=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminaDer&layout=compact&theme=radical)
+
+> 💡 **Tip:** `Top Languages` muestra automáticamente **todos los lenguajes que más usas** en tus repositorios, no solo Python.
 
 ---
 
@@ -42,20 +50,5 @@ Here are some of my main projects:
 ---
 
 ## 📫 How to Reach Me
-- **Email:** dermouhyasmina@gmail.com
-- **LinkedIn:** 
-
-<!--
-**YasminaDer/YasminaDer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** dermouhyasmina@gmail.com  
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
